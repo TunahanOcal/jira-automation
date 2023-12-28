@@ -1,0 +1,4 @@
+*.pyc
+.gitlab-ci.yml
+.vscode
+__pycache__
